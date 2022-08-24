@@ -1,0 +1,4 @@
+PyTorch: 
+  * Puede programarse gradiente a mano, o optimizarse con un módulo específico.
+  * 
+TensorFlow:
